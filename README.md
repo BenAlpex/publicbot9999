@@ -2,5 +2,5 @@
  
 
 #Herhangi bir sorunda:
-> ⁠Aşağodaki sunucdan destek alabilirsiniz.
+> ⁠Aşağıdaki sunucdan destek alabilirsiniz.
 [https://discord.gg/vsc](https://discord.gg/vsc) 
