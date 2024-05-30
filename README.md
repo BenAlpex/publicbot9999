@@ -2,5 +2,5 @@
  
 
 #Herhangi bir sorunda:
-> ⁠Aşağıdaki sunucdan destek alabilirsiniz.
-[https://discord.gg/vsc](https://discord.gg/vsc) 
+> ⁠Aşağıdaki sunucudan destek alabilirsiniz.
+[![Discord Banner](https://api.weblutions.com/discord/invite/vsc)](https://discord.gg/vsc)
