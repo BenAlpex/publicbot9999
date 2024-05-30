@@ -3,4 +3,4 @@
 
 #Herhangi bir sorunda:
 > ⁠Aşağıdaki sunucudan destek alabilirsiniz.
-> [![Discord Banner](https://api.weblutions.com/discord/invite/vsc)](https://api.weblutions.com/discord/invite/vsc)
+> [Discord Banner](https://api.weblutions.com/discord/invite/vsc)
