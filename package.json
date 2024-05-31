@@ -1,8 +1,8 @@
 {
-  "name": "jaylen-bots",
+  "name": "wraiths-public",
   "version": "v1.0.0",
-  "description": "Bin Ölür Bin sikeriz DJWLADJAWLD",
-  "author": "Agaçı Kökten Jayleni Götten",
+  "description": "wraiths-public",
+  "author": "WraithsDevOktay",
   "main": "app.config.js",
   "scripts": {
     "start": "pm2 start app.config.js"
